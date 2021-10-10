@@ -1,1 +1,1 @@
-"# responsive-email-template" 
+[Live preview(https://andreasdk.github.io/responsive-email-template/)
